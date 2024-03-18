@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/
+permalink: /blogs/index.html
 title: Blogs
 ---
 
