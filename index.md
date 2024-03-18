@@ -20,8 +20,7 @@ I graduated from [Guangdong University](https://www.gdut.edu.cn/) of Technology 
 ## Motto
 
 - Someone has to win.
-- Keep Da Dream Alive
-- Vincy
+- Keep Da Dream Alive.
 - 在人的一生中最为辉煌的一天，并不是功成名就的那一天，而是从悲叹和绝望中产生对人生挑战的欲望，并且勇敢迈向这种挑战的那一天。
-- Be humble 、 Be thirsty
+- Be humble 、 Be thirsty.
 
