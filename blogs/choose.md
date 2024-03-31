@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/computer_system/choose.md
+permalink: /blogs/choose/index.html
 title: 编程语言的选择
 ---
 
