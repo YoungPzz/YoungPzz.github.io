@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2024
 
-- [编程语言的选择](https://youngpzz.github.io/blogs/computer_system/choose)
+- [编程语言的选择](https://youngpzz.github.io/blogs/choose)
 - [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
 
 ### 2023
