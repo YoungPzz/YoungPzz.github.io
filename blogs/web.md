@@ -113,11 +113,11 @@ title: Hanlin Cai
 url: https://caihanlin.com
 
 owner: 
-  name: Hanlin Cai
-  avatar: hanlin.jpg (纠正: 这里是root/image目录下的图片)
-  email: hanlin.cai@ieee.org
-  github: GuangLun2000（只需要输入用户名即可）
-  linkedin: hanlin-cai-07b53b23b（只需要ID即可）
+  name: YoungPzz
+  avatar: youngp.png (纠正: 这里是root/image目录下的图片)
+  email: csyoung2000@163.com
+  github: YoungPzz（只需要输入用户名即可）
+  linkedin: （只需要ID即可）
 
 links:
   - title: About Me（可依照个人需求修改，下同）

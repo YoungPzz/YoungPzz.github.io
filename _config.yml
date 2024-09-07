@@ -38,7 +38,9 @@ links:
   - title: About Me
     url: /
   - title: Blogs
-    url: /blogs/    
+    url: /blogs/
+  - title: Life
+    url: /life/   
   
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
