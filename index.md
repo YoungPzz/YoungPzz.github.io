@@ -3,12 +3,15 @@ layout: page
 ---
 
 ## About Me
-
+<br>
+<br>
 <img src="/images/personal.png" class="floatpic" width="360" height="480">
 
  **K.D.D.A Keep Da Dream Alive**.
 
-I graduated from [Guangdong University](https://www.gdut.edu.cn/) of Technology with a bachelor's degree and am currently pursuing a master's degree at [Xidian University](https://www.xidian.edu.cn/)。
+- I graduated from [Guangdong University](https://www.gdut.edu.cn/) of Technology with a bachelor's degree and am currently pursuing a master's degree at [Xidian University](https://www.xidian.edu.cn/)。
+
+- 人的记忆是有限的，在沉思时把经历与感悟写在自己的博客里，是件美事。
 <br>
 <br>
 <br>
